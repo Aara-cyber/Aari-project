@@ -1,2 +1,3 @@
 # Aari-project
-Author - Aarav Bhatt
+
+Author - Aarav Bhatt (Student)
